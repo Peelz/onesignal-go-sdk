@@ -1,0 +1,6 @@
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/peelz/onesignal-go v0.0.0-20160928064723-312530be66c8 h1:Z7aDvTOMmSwEqiob3IKAz9vEgGCfoAoJ6VjsMtTcMQs=
+github.com/peelz/onesignal-go v0.0.0-20160928064723-312530be66c8/go.mod h1:lAneh/fpif8qt+OMYzPfPWKBKS+tevJg+TjCiBb0YiY=
+github.com/tbalthazar/onesignal-go v0.0.0-20160928064723-312530be66c8 h1:rgOhReXKl3RSqLJXH8zV+FbR0Oh/x/JCbKow6oKPvBk=
+github.com/tbalthazar/onesignal-go v0.0.0-20160928064723-312530be66c8/go.mod h1:/1ub1PBtGReAhl0AigtoWbQ7WJys+KmwMcgwaPoixqk=
